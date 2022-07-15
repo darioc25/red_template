@@ -69,6 +69,166 @@ body {
     left: 0px;
 }
 
+/* Section 1 */
+.custom-section-1{
+    margin-top: 50px;
+}
+
+.section-1-text{
+    font-size: 25px;
+    font-family: var(--text-font);
+    font-weight: 600;
+    color: var(--gray);
+    font-style: italic;
+}
+
+.quote-1{
+    position: absolute;
+    top: -40px;
+    left: -55px;
+    font-size: 60px;
+    color: var(--dark-red);
+}
+
+.quote-2{
+    position: absolute;
+    color: var(--dark-red);
+    transform: rotateY(180deg);
+    font-size: 60px;
+    top: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 768px) {
 
     .main-title{
