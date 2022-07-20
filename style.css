@@ -176,9 +176,19 @@ body {
     color: var(--gray);
 }
 
+/* Section 4 */
+.custom-section-4 {
+    
+}
 
-
-
+.button-section-4 {
+    border: none;
+    padding: 8px 40px;
+    color: white;
+    background-color: var(--dark-red);
+    font-family: var(--text-font);
+    font-size: 18px;
+}
 
 
 
