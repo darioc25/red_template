@@ -21,7 +21,7 @@ body {
     position: relative;
 }
 
-.bg-layer{
+.bg-layer {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -70,11 +70,11 @@ body {
 }
 
 /* Section 1 */
-.custom-section-1{
+.custom-section-1 {
     margin-top: 50px;
 }
 
-.section-1-text{
+.section-1-text {
     font-size: 25px;
     font-family: var(--text-font);
     font-weight: 600;
@@ -82,7 +82,7 @@ body {
     font-style: italic;
 }
 
-.quote-1{
+.quote-1 {
     position: absolute;
     top: -40px;
     left: -55px;
@@ -90,7 +90,7 @@ body {
     color: var(--dark-red);
 }
 
-.quote-2{
+.quote-2 {
     position: absolute;
     color: var(--dark-red);
     transform: rotateY(180deg);
@@ -99,11 +99,11 @@ body {
 }
 
 /* Section 2 */
-.custom-section-2{
+.custom-section-2 {
     margin-top: 180px;
 }
 
-.icon-line{
+.icon-line {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -112,7 +112,7 @@ body {
     position: relative;
 }
 
-.icon-line::before{
+.icon-line::before {
     position: absolute;
     content: "";
     width: 18px;
@@ -123,7 +123,7 @@ body {
     border: 2px solid var(--dark-red);
 }
 
-.icon-section-2{
+.icon-section-2 {
     font-size: 55px;
     color: var(--dark-red);
 }
